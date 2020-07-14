@@ -1,4 +1,4 @@
-<?php $title = 'Ninja Pizza'; ?>
+<?php $tabTitle = 'Ninja Pizza'; ?>
 <?php include('inc/head.php'); ?>
 <?php include('inc/header.php'); ?>
 
